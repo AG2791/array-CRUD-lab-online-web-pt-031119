@@ -4,10 +4,12 @@ end
 
 def create_an_array
   array = ["e1", "e2", "e3"]
+
   
 end
 
 def add_element_to_end_of_array(array, element)
+   array.push("e4")
   
 end
 
